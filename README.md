@@ -1,2 +1,4 @@
 Deploy-O-Rama streamlines the deployment of cloud-native monitoring solutions by integrating multiple tools. Code is managed on GitHub, containerized with Docker, and stored on DockerHub. The deployment is executed on AWS EC2 instances, with Jenkins handling automation throughout the process.
-![276374542-33f22c15-9e1d-43da-9667-f92991c854f2](https://github.com/user-attachments/assets/e8ca0170-1b69-4ddf-9d74-b2db93c47c3c)
+
+![Screenshot 2025-01-20 182035](https://github.com/user-attachments/assets/1320c1f0-0c06-4455-bdd6-fc35a20ac1ae)
+                                       
